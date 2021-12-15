@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pedro Silva!
 
 <p> I'm a recent graduate from Le Wagon coding bootcamp and have an engineering background.</p>
-<p> As an electrical engineer I've worked on 4 continents and over 9 countries. </p>
+<p> As an electrical engineer I've worked on 4 different continents and over 9 countries. </p>
 
 
 🧰 Toolbox
