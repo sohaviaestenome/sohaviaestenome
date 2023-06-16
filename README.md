@@ -17,9 +17,6 @@
 
 <p> Eagerly looking for cool open source projects to give my contribution to. </p>
 
-<p> Eagerly looking for cool opensource projects to give my contribution to. </p>
-
-
 ![can't wait](https://media.giphy.com/media/VsA0uBlJUNjYk/giphy.gif)
 
 
